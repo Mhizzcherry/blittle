@@ -1,0 +1,28 @@
+body{
+    align-content:center;}
+#main  {
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+padding: 0;
+border: 3px dashed rgba(119, 104, 104, 0.144);
+}
+#title {
+background-color: rgb(48, 197, 177);
+}
+.container{
+    padding: 0;
+}
+.img{
+width:150px;
+height:150px;
+border-radius:50%;
+float:right;
+}
+.quote{
+font-size:18px;
+position:relative;
+}
+.text{
+text-align:right;
+}
